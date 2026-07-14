@@ -1,0 +1,9 @@
+{
+  "id": "stellar-graph",
+  "name": "Stellar Graph",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "An immersive, searchable knowledge graph with clusters, paths, focus mode, and saved views.",
+  "author": "Sterl27",
+  "isDesktopOnly": false
+}

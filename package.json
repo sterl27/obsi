@@ -1,0 +1,16 @@
+{
+  "name": "stellar-graph",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "node esbuild.mjs production",
+    "dev": "node esbuild.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "builtin-modules": "^4.0.0",
+    "esbuild": "^0.24.2",
+    "obsidian": "^1.7.2",
+    "typescript": "^5.7.2"
+  }
+}
