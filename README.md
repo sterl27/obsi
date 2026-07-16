@@ -14,6 +14,17 @@ Stellar Graph is an Obsidian community plugin that turns your vault links into a
 - Optional orphan-note visibility
 - Settings for node scale, link opacity, graph motion, and color behavior
 
+## Use Cases
+
+- Map a research vault and see which notes are central, isolated, or over-connected.
+- Explore project knowledge bases by folder, topic, tag, or link neighborhood.
+- Trace how two ideas are connected with shortest-path discovery.
+- Review writing systems, Zettelkasten notes, and evergreen notes without losing context.
+- Audit vault structure by finding orphan notes, weakly linked notes, and dense clusters.
+- Navigate technical documentation, agent notes, model notes, and blueprint libraries visually.
+- Prepare presentations or briefs by following link paths between source notes and conclusions.
+- Refactor an Obsidian vault by spotting noisy hubs, duplicate clusters, and missing bridge notes.
+
 ## Commands
 
 Stellar Graph adds these Obsidian commands:
